@@ -1,4 +1,4 @@
-# Xunison_API_Task
+# Django CRUD Project
 Create Movie details with CRUD operations.
 
 ## Setup
@@ -21,7 +21,7 @@ Create Movie details with CRUD operations.
 Go to the file where manage.py is present
 ```sh
  >>> python manage.py makemigrations movie_crud
- >>> python manage.py migrate
+ >>> python manage.py migrates
  >>> python manage.py runserver
 ```
 ## Test cases
