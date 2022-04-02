@@ -30,10 +30,6 @@ If everything runs fine then, for running test files
 >>> python manage.py test movie_crud
 ```
 
-## Postman
-
- [getpostman.com/collections/ed76c0e2580ccd4881ad](https://www.getpostman.com/collections/ed76c0e2580ccd4881ad)
-
 
 # Authors
-- Aman Kumar Sharma ([github.com/AmansGit](https://github.com/AmansGit))
+- Jeetu Burman ([github.com/JeetuGit](https://github.com/JeetuGit))
